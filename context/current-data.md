@@ -1,41 +1,35 @@
-# Aktuelle Daten
-
-> Diese Datei enthält Metriken, Datenpunkte und aktuelle Statusinformationen, die für deine Rolle und Strategie relevant sind. Sie liefert Claude konkreten Kontext für Analysen und Entscheidungsfindung.
-
----
-
-## Wie das zusammenhängt
-
-- **business-info.md** liefert den organisatorischen Kontext
-- **personal-info.md** definiert, wofür du verantwortlich bist
-- **strategy.md** beschreibt, worauf du optimierst
-- **Diese Datei** gibt Claude die Zahlen hinter der Erzählung
-
----
+# Aktuelle Daten – Astrid Perjul
 
 ## Schlüsselmetriken
 
-[Welche Datenpunkte sind am wichtigsten für deine Arbeit? Umsatz, Nutzer, Conversion-Raten, Pipeline, Performance-Metriken?]
-
 | Metrik | Aktueller Wert | Zielwert | Notizen |
-| ------ | -------------- | -------- | ------- |
-|        |                |          |         |
-|        |                |          |         |
+|--------|---------------|----------|---------|
+| Monatsumsatz | ca. 2.500 € | 50.000 € | passiv |
+| E-Mail-Liste | ca. 150 | wachsend | Wachstum Priorität |
+| Instagram-Follower | — | wachsend | @astridperjul |
+| Instagram-Engagement | niedrig | hoch | Hauptbaustelle |
 
-## Aktueller Stand
+## Aktueller Stand (April 2026)
 
-[Qualitative Daten: Status wichtiger Projekte, kürzliche Erfolge/Misserfolge, Blocker, Team-Kapazität?]
+- **PreCircle Mai** — in Vorbereitung, muss gefüllt werden
+- **Retreat Griechenland Juni** — geplant
+- **Bali-Reise** — geplant
+- **Self Leadership Circle Juli** — Launch in Vorbereitung
+- Content-System mit KI im Aufbau (dieser Workspace)
 
-## Datenquellen
+## Wunschkundin
 
-[Woher kommen diese Daten? Nützlich für zukünftige Automatisierung.]
+- Frauen, 40–55 Jahre
+- Spirituell erfahren (nicht Anfängerin)
+- Nervensystem stabil, nicht mitgenommen
+- Führungsidentität vorhanden oder im Erwachen
+- Sucht keine Heilung, sondern Erhöhung und nächste Ebene
 
----
+## Kommunikations-No-Gos
 
-## Automatisierungshinweis
+- NIEMALS: "Glaubenssätze", "Blockaden", "Limitierungen lösen"
+- IMMER: "limitierende Überzeugungen" (wenn nötig), Erhöhung, Würde, Atemfluss
+- Kein spirituelles Kauderwelsch
+- Kein Kampf-Vokabular
 
-_Diese Datei funktioniert als statischer Snapshot, kann aber mit Skripten erweitert werden, die Live-Daten ziehen. Sobald du mit dem Workspace vertraut bist, erwäge ein Skript in `scripts/` hinzuzufügen, das diese Datei aus deinen Datenquellen aktualisiert (Dashboards, APIs, Spreadsheets, etc.)._
-
----
-
-_Regelmäßig aktualisieren — veraltete Daten begrenzen Claudes Nützlichkeit als analytischer Partner._
+*Zuletzt aktualisiert: April 2026*

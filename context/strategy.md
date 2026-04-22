@@ -1,38 +1,39 @@
-# Strategie
+# Strategie 2026 – Astrid Perjul
 
-> Diese Datei beschreibt aktuelle strategische Prioritäten — jährlich, quartalsweise oder projektbasiert. Claude liest sie, um zu verstehen, worauf du hinarbeitest, damit er als Denkpartner agieren kann, der auf deine Ziele ausgerichtet ist.
+## Fokuszeitraum
 
----
-
-## Wie das zusammenhängt
-
-- **business-info.md** liefert den organisatorischen Kontext
-- **personal-info.md** definiert deine Rolle und Verantwortlichkeiten
-- **Diese Datei** beschreibt, wie Erfolg aktuell aussieht
-- **current-data.md** trackt den Fortschritt gegenüber diesen Prioritäten
-
----
-
-## Aktueller Fokuszeitraum
-
-[Welchen Zeitraum deckt diese Strategie ab? Q1 2026? Ganzes Jahr? Eine spezifische Initiative?]
+April–Dezember 2026
 
 ## Strategische Prioritäten
 
-[Was sind die 2-5 Schlüsselprioritäten, auf die du dich fokussierst? Was versuchst du zu erreichen?]
-
-1.
-2.
-3.
+1. **Instagram-Wachstum** — Signature Style entwickeln, Engagement aufbauen, sichtbar werden
+2. **PreCircle Mai** — füllen und erfolgreich durchführen
+3. **Retreat Griechenland Juni** — durchführen, Testimonials sammeln
+4. **Self Leadership Circle Juli** — launchen und füllen
+5. **Skalierung durch digitale Angebote** — Umsatz von 2.500 auf 10.000+ schrittweise erhöhen
 
 ## Wie Erfolg aussieht
 
-[Woran erkennst du, ob du erfolgreich bist? Welche Ergebnisse oder Meilensteine sind wichtig?]
+- Instagram wächst organisch, Beiträge bekommen Resonanz
+- Programme füllen sich ohne ständiges Pushen
+- Passives Einkommen-Anteil wächst
+- Content entsteht ohne Aufwand (KI-gestützt, aber authentisch)
 
-## Schlüsselentscheidungen oder offene Fragen
+## Wachstumshemmer (bekannt)
 
-[Strategische Spannungen, Abwägungen oder Entscheidungen, an denen du aktiv arbeitest?]
+- Kein klarer digitaler Signature Style
+- Instagram-Engagement bisher niedrig
+- Captions noch zu schwach
+- KI-Ton noch nicht kalibriert auf Astrids Sprache
 
----
+## Nächste Aktionen
 
-_Aktualisiere dies, wenn sich Prioritäten verschieben. Claude nutzt dies, um die Arbeit in die richtige Richtung zu lenken._
+- [ ] Social-Media Content-System aufbauen (Drafts → Review → Posting)
+- [ ] KI-Ton kalibrieren (Sprache, Stil, No-Gos)
+- [ ] PreCircle Mai füllen
+- [ ] Blotato-Integration testen
+
+## Vorbilder (Content-Stil)
+
+- Coral Santoro
+- Rosa Koppelmann

@@ -1,34 +1,26 @@
-# Persönliche Informationen
+# Persönliche Informationen – Astrid Perjul
 
-> Diese Datei erfasst, wer du bist und wie dieser Workspace deine Arbeit unterstützt. Claude liest sie während `/prime`, um deine Rolle zu verstehen und die Unterstützung entsprechend anzupassen.
+## Wer du bist
 
----
+- **Name:** Astrid Perjul
+- **E-Mail:** office@astridperjul.at
+- **Instagram:** @astridperjul
+- **Human Design:** Manifestierender Generator 3/5
+- **Kernwerte:** Authentizität, Würde, Freiheit, Tiefe, Schönheit, energetische Integrität
 
-## Wie das zusammenhängt
+## Persönlichkeit & Energie
 
-- **business-info.md** setzt den organisatorischen Rahmen
-- **Diese Datei** definiert deinen Platz darin
-- **strategy.md** beschreibt, worauf du hinarbeitest
-- **current-data.md** liefert Metriken, die Entscheidungen informieren
+Du bist eine Unternehmerin mit einer klaren Vision: 50.000 € passives monatliches Einkommen. Du baust intuitiv auf, nicht nach Plan — dein Business entsteht aus deiner Energie heraus, nicht aus einem Funnel-Lehrbuch. Du hast einen starken Sinn für Ästhetik (Premium ohne Arroganz) und arbeitest mit energetischen Prinzipien, Quantenphysik und spiritueller Tiefe.
 
----
+## Deine Rolle im Business
 
-## Deine Rolle
+- Unternehmerin, Coach, Mentorin
+- Erstellst Content, hältst Retreats, führst Gruppen- und Einzelprogramme
+- Bist Gesicht und Stimme deiner Marke — persönlich, authentisch, erhebend
 
-[Beschreibe deinen Titel, deine Funktion und deine primären Verantwortlichkeiten. Wofür bist du verantwortlich? Welche Entscheidungen triffst du?]
+## Wie dieser Workspace helfen soll
 
-## Kernverantwortlichkeiten
-
-[Liste die Kernbereiche auf, die du managst oder zu denen du beiträgst. Diese helfen Claude zu verstehen, welche Arten von Aufgaben für deine Arbeit relevant sind.]
-
--
--
--
-
-## Wie dieser Workspace hilft
-
-[Beschreibe, wofür du diesen Workspace nutzen möchtest. Welche wiederkehrenden Aufgaben, Analysen oder Entscheidungen könnte Claude unterstützen?]
-
----
-
-_Halte das prägnant — genug damit Claude deinen Kontext versteht, keine erschöpfende Biografie._
+- Content vollständig erstellen (Posts, Newsletter, Podcast-Notizen)
+- Texte kontrollieren und freigeben
+- Schrittweise automatisiert posten (Blotato)
+- Kontext session-übergreifend erhalten, damit du nicht jedes Mal neu erklärst wer du bist

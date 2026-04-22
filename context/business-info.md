@@ -1,34 +1,42 @@
-# Business-Informationen
+# Business-Informationen – Astrid Perjul
 
-> Diese Datei liefert Hintergrund zur Organisation oder zum Business, in dem du arbeitest. Sie schafft die Grundlage, um deine Rolle (personal-info.md) und strategischen Prioritäten (strategy.md) zu verstehen.
+## Was du tust
 
----
+Du begleitest Frauen (40–55 Jahre, spirituell erfahren, Führungsidentität vorhanden) dabei, ihre innere Führung zu aktivieren und ein Leben aus Fülle, Würde und Selbstverantwortung zu leben. Kein Kampf. Keine Blockaden-Arbeit. Erhöhung statt Heilung.
 
-## Wie das zusammenhängt
+## Angebotsstruktur (6 Stufen)
 
-- **Diese Datei** liefert den organisatorischen Kontext
-- **personal-info.md** definiert deine Rolle darin
-- **strategy.md** beschreibt die Ziele, auf die du hinarbeitest
-- **current-data.md** trackt den Fortschritt und informiert Entscheidungen
+| Stufe | Angebot | Preis (ca.) |
+|-------|---------|-------------|
+| 1 | Einzelsessions / Einstieg | niedrig |
+| 2 | Kleingruppenformat | mittel |
+| 3 | Self Leadership Circle (Gruppe, Juli start) | mittel-hoch |
+| 4 | PreCircle / Intensiv (Mai) | hoch |
+| 5 | Retreats (Griechenland Juni, Bali geplant) | premium |
+| 6 | High-Level 1:1 Mentoring | exklusiv |
 
----
+## Aktuelle Umsatzsituation
 
-## Überblick zur Organisation
+- **Ist:** ca. 2.500 € / Monat
+- **Ziel:** 50.000 € / Monat (passiv)
+- **Weg:** Skalierung über Gruppen, digitale Produkte, Retreat-Programme
 
-[Beschreibe das Business, das Unternehmen oder die Organisation. Was macht es? Wen bedient es? Was ist seine Mission oder sein Zweck?]
+## Podcast
 
-## Produkte / Dienstleistungen / Schwerpunkte
+- **Name:** Resilienz Sister
+- Solo + Gäste, Tabuthemen, Quantenphysik, spirituelle Tiefe
+- Wöchentliche Episode
 
-[Was sind die primären Angebote oder Schwerpunkte? Das hilft Claude zu verstehen, was du baust oder lieferst.]
+## Kanäle
 
--
--
--
+| Kanal | Frequenz | Zweck |
+|-------|----------|-------|
+| Instagram @astridperjul | täglich | Hauptkanal, Wachstum |
+| Newsletter | wöchentlich | Vertiefung, Verkauf |
+| Podcast | wöchentlich | Reichweite, Vertrauen |
+| Telegram | täglich | Community, Nähe |
 
-## Wichtiger Kontext
+## E-Mail-Liste
 
-[Alle wichtigen Hintergrundinformationen: Unternehmensphase, Teamgröße, Marktposition, kürzliche Änderungen oder Rahmenbedingungen, die Claude kennen sollte.]
-
----
-
-_Halte dies auf hohem Niveau — genug um Claude zu orientieren, kein umfassendes Unternehmens-Wiki._
+- ca. 150 Abonnentinnen
+- Wachstum ist aktuelle Priorität
